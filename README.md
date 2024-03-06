@@ -3,4 +3,4 @@ This is a very small practice project from "The Ultimate React Course 2024: Reac
 
 ![image](https://github.com/dariusdinu/eat-n-split/assets/75120006/79a78892-ac55-4b1e-ab18-aacee8420951)
 
-Accessible via the link: https://eat-n-split-darius-dinu.netlify.app/
+Accessible via this link: https://eat-n-split-darius-dinu.netlify.app/
